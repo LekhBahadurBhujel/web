@@ -1,0 +1,31 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+    margin: auto;
+    margin-top: 5%;
+}
+
+.text{
+    display:flex;
+    justify-content: center;
+}
+
+.img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.about{
+    font-size: 25px;
+    text-align: center;
+    padding: 3%;
+}
+
