@@ -1,5 +1,5 @@
 import React from "react";
-import { useTypewriter, cursor } from "react-simple-typewriter";
+import { useTypewriter} from "react-simple-typewriter";
 import "./Home.css";
 import img from "./rocking.png";
 
@@ -24,7 +24,7 @@ function Home() {
           </h1>
         </div>
         <div class="img">
-          <img src={img}></img>
+          <img src={img} alt="img"></img>
         </div>
         
         <div class="intro">

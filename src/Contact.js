@@ -1,5 +1,5 @@
 import React from "react";
-import { useTypewriter, cursor } from "react-simple-typewriter";
+import { useTypewriter} from "react-simple-typewriter";
 import "./Contact.css";
 import img3 from "./car.png";
 
@@ -23,8 +23,10 @@ function Contact() {
           </h1>
         </div>
         <div class="img3">
-          <img src={img3}></img>
+          <img src={img3} alt="img3"></img>
         </div>
+
+        
         <div class="contact">
         The page is under Maintenance........
 
