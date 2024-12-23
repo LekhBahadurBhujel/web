@@ -25,7 +25,6 @@ function Contact() {
         <div class="img3">
           <img src={img3} alt="img3"></img>
         </div>
-
         
         <div class="contact">
         The page is under Maintenance........

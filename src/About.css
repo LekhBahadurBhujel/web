@@ -16,10 +16,9 @@
 }
 
 .img2{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
