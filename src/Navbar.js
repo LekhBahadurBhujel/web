@@ -6,7 +6,7 @@ function Navbar(){
 <>
  <div class="navbar">
  <div class="logo">
-       <img src={logo}></img>
+       <img src={logo} alt="logo"></img>
       </div>
                 <div>
                     <ul class="menu">
