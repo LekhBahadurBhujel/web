@@ -28,11 +28,11 @@ function Home() {
         </div>
         
         <div class="intro">
-        Hi! I’m Lekh Bahadur Bhujel, a passionate web developer from Nepal. With a strong background in react.js, I thrive on creating innovative solutions that blend creativity with functionality.
+       <p> Hi! I’m Lekh Bahadur Bhujel, a passionate web developer from Nepal. With a strong background in react.js, I thrive on creating innovative solutions that blend creativity with functionality.
 
 In this portfolio, you’ll find a collection of my projects that showcase my ability to develop websites. 
 
-Feel free to explore my work, and let’s connect!
+Feel free to explore my work, and let’s connect! </p>
         </div>
       </div>
     </>
